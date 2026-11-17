@@ -1,0 +1,17 @@
+2026-11-17 18:32:51,943 - INFO - Extracted 300 rows from Customers
+2026-11-17 18:32:51,949 - INFO - Extracted 24 rows from Employees
+2026-11-17 18:32:51,956 - INFO - Extracted 20 rows from Products
+2026-11-17 18:32:51,962 - INFO - Extracted 88 rows from Targets
+2026-11-17 18:32:51,999 - INFO - Extracted 1600 rows from Orders
+2026-11-17 18:34:31,725 - INFO - Starting Enterprise MIS Automation Pipeline
+2026-11-17 18:34:31,725 - INFO - STEP 1: Data Extraction
+2026-11-17 18:34:31,823 - INFO - Extracted 300 rows from Customers
+2026-11-17 18:34:31,826 - INFO - Extracted 24 rows from Employees
+2026-11-17 18:34:31,830 - INFO - Extracted 20 rows from Products
+2026-11-17 18:34:31,833 - INFO - Extracted 88 rows from Targets
+2026-11-17 18:34:31,867 - INFO - Extracted 1600 rows from Orders
+2026-11-17 18:34:31,868 - INFO - STEP 2: Data Transformation
+2026-11-17 18:34:31,899 - INFO - Order data validation passed
+2026-11-17 18:34:31,908 - INFO - Transformation completed successfully
+2026-11-17 18:34:31,908 - INFO - STEP 3: MIS Report Generation
+2026-11-17 18:34:32,024 - INFO - MIS Automation Pipeline completed successfully!

@@ -1,0 +1,25 @@
+EmployeeID,EmployeeName,Region,Department
+E001,Employee 01,North,Retail Operations
+E002,Employee 02,North,Sales
+E003,Employee 03,North,Account Management
+E004,Employee 04,North,Account Management
+E005,Employee 05,North,Retail Operations
+E006,Employee 06,North,Sales
+E007,Employee 07,South,Retail Operations
+E008,Employee 08,South,Sales
+E009,Employee 09,South,Account Management
+E010,Employee 10,South,Account Management
+E011,Employee 11,South,Account Management
+E012,Employee 12,South,Account Management
+E013,Employee 13,East,Retail Operations
+E014,Employee 14,East,Sales
+E015,Employee 15,East,Sales
+E016,Employee 16,East,Retail Operations
+E017,Employee 17,East,Sales
+E018,Employee 18,East,Account Management
+E019,Employee 19,West,Sales
+E020,Employee 20,West,Account Management
+E021,Employee 21,West,Retail Operations
+E022,Employee 22,West,Sales
+E023,Employee 23,West,Retail Operations
+E024,Employee 24,West,Sales

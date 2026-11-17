@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice,StockQty,ReorderLevel
+P001,Wireless Mouse,Electronics,450,799,71,22
+P002,Keyboard,Electronics,700,1199,91,14
+P003,Headphones,Electronics,900,1599,102,18
+P004,Monitor,Electronics,6500,8999,94,11
+P005,USB Hub,Electronics,350,699,43,10
+P006,Mixer Grinder,Home,1800,2799,41,9
+P007,Electric Kettle,Home,650,1099,107,19
+P008,Desk Lamp,Home,500,899,49,13
+P009,Storage Rack,Home,1200,1899,21,8
+P010,Bedsheet Set,Home,550,999,95,19
+P011,Backpack,Fashion,700,1299,108,24
+P012,Sneakers,Fashion,1300,2199,110,17
+P013,Jacket,Fashion,1600,2699,111,23
+P014,T-Shirt,Fashion,250,499,34,22
+P015,Wallet,Fashion,300,599,81,19
+P016,Notebook Pack,Office,120,249,74,10
+P017,Office Chair,Office,4200,5999,70,14
+P018,Desk Organizer,Office,250,499,40,16
+P019,Printer Paper,Office,180,299,58,11
+P020,Pen Set,Office,90,199,108,21
