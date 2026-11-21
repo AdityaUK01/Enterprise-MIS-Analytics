@@ -93,4 +93,3 @@ python -m python.main
 
 Aditya Rawat
 
-Aspiring MIS Analyst | Data Analyst
